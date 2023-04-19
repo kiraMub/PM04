@@ -1,0 +1,28 @@
+﻿<Window x:Class="ClientPM04.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:s="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:ClientPM04"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListView>
+            <Label Content="Имя:"/>
+            <TextBox HorizontalAlignment="Left" Name="Name" Margin="62,0,0,0" TextWrapping="Wrap" Text=""  VerticalAlignment="Top" Width="229" Height="28" TextChanged="Name_TextChanged"/>
+            <TextBlock HorizontalAlignment="Right" Name="textBlock1" Margin="500,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="291" Height="25" FontSize="20"/>
+            <Label Content="Фамилия:"/>
+            <TextBox HorizontalAlignment="Left" Name="LastName" Margin="62,0,0,0" TextWrapping="Wrap" Text=""  VerticalAlignment="Top" Width="229" Height="28" TextChanged="LastName_TextChanged"/>
+            <TextBlock HorizontalAlignment="Right" Name="textBlock2" Margin="500,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="291" Height="25" FontSize="20"/>
+            <Label Content="Возраст:"/>
+            <TextBox HorizontalAlignment="Left" Name="Age" Margin="62,0,0,0" TextWrapping="Wrap" Text=""  VerticalAlignment="Top" Width="229" Height="28" PreviewTextInput="Age_PreviewTextInput" />
+            <TextBlock HorizontalAlignment="Right" Name="textBlock3" Margin="500,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="291" Height="25" FontSize="20"/>
+            <Label Content="Дата рождения:"/>
+            <TextBox HorizontalAlignment="Left" Name="DateBirthday" Margin="62,0,0,0" TextWrapping="Wrap" Text=""  VerticalAlignment="Top" Width="229" Height="28" TextChanged="Name_TextChanged"/>
+            
+        </ListView>
+        
+    </Grid>
+</Window>

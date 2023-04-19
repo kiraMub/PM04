@@ -1,0 +1,16 @@
+G:\ClientPM04\bin\Debug\ClientPM04.exe.config
+G:\ClientPM04\bin\Debug\ClientPM04.exe
+G:\ClientPM04\bin\Debug\ClientPM04.pdb
+G:\ClientPM04\obj\Debug\ClientPM04.csproj.AssemblyReference.cache
+G:\ClientPM04\obj\Debug\ClientPM04.csproj.SuggestedBindingRedirects.cache
+G:\ClientPM04\obj\Debug\MainWindow.g.cs
+G:\ClientPM04\obj\Debug\App.g.cs
+G:\ClientPM04\obj\Debug\ClientPM04_MarkupCompile.cache
+G:\ClientPM04\obj\Debug\ClientPM04_MarkupCompile.lref
+G:\ClientPM04\obj\Debug\MainWindow.baml
+G:\ClientPM04\obj\Debug\ClientPM04.g.resources
+G:\ClientPM04\obj\Debug\ClientPM04.Properties.Resources.resources
+G:\ClientPM04\obj\Debug\ClientPM04.csproj.GenerateResource.cache
+G:\ClientPM04\obj\Debug\ClientPM04.csproj.CoreCompileInputs.cache
+G:\ClientPM04\obj\Debug\ClientPM04.exe
+G:\ClientPM04\obj\Debug\ClientPM04.pdb
